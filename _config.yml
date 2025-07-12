@@ -1,0 +1,19 @@
+title: Tu Nombre - Material de Estudio
+description: Recursos y roadmaps para estudiantes
+url: "https://tuusuario.github.io"
+baseurl: ""
+
+# Configuración Jekyll
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Navegación
+header_pages:
+  - materias.md
+  - about.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
